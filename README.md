@@ -1,6 +1,6 @@
 # Decoding-Licking-Behavior-in-Mice-from-Sparse-Neural-Population-Activity
 Team Decoder, Neuromatch Academy'25
-# BACKGROUND AND MOTIVATION#
+# BACKGROUND AND MOTIVATION
 # Research Questions :
 
 1. Do neurons encoding visual stimuli also encode task-relevant events?
@@ -31,8 +31,8 @@ Evaluation Criterion
 ● Decoding Accuracy
 
 # TEAM
-Vikshar Jagan Athreya
-Elizaveta Sycheva
-Giang Nguyen
-Santiago Suzunaga
-Oluwapelumi Solagbade
+  Vikshar Jagan Athreya
+  Elizaveta Sycheva
+  Giang Nguyen
+  Santiago Suzunaga
+  Oluwapelumi Solagbade
