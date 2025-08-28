@@ -10,6 +10,7 @@ states?
 
 H1 (Shared encoding): Neurons encoding visual stimuli also represent task events, indicating overlapping
 sensory and behavioral codes.
+
 H2 (Latent divergence): Population activity diverges in latent space across behavioral states, reflecting
 flexible cortical reconfiguration
 
@@ -20,19 +21,26 @@ We used spike trains recorded from cortical populations during supervised behavi
 rats performed licking tasks. Only trials with known licking behavior labels were included for decoding.
 
 # Models Tested
-● Logistic Regression
+●  Logistic Regression
 Interpretable linear classifier serving as a baseline.
+
 ● Support Vector Machine (SVM)
+
 Linear kernel, effective for high-dimensional sparse data.
 ● Artificial Neural Network (ANN)
 1D feedforward convolutional architecture (CNN), designed to capture non-linear
 population-level interactions.
 Evaluation Criterion
+
 ● Decoding Accuracy
 
 # TEAM
   Vikshar Jagan Athreya
+  
   Elizaveta Sycheva
+  
   Giang Nguyen
+  
   Santiago Suzunaga
+  
   Oluwapelumi Solagbade
